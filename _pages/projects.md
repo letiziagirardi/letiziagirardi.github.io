@@ -1,9 +1,8 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: Here are **clean, polished descriptions** for each project **with skills, tools, and github repository links**.
-
+description: Polished project descriptions including skills, tools, and GitHub repository links.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
