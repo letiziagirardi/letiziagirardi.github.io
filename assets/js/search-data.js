@@ -465,12 +465,7 @@ ninja.data = [{
           title: 'Autonomous System Agent',
           description: "This course explores the agent-oriented approach for developing intelligent software systems capable of autonomous decision-making. Students will learn the fundamentals of agents, multi-agent systems, agent architectures, planning techniques, and the implementation of autonomous software agents, including LLM-based agents.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-introduction-to-machine-learning",
-          title: 'Introduction to Machine Learning',
-          description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
+              window.location.href = "/teachings/autonomous-system-agent/";
             },},{
         id: 'social-cv',
         title: 'CV',
