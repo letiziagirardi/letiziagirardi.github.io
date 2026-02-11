@@ -10,7 +10,7 @@ horizontal: false
 
 ---
 
-## **Analysis of Perivascular Spaces in Parkinsonian Patients**
+### Analysis of Perivascular Spaces in Parkinsonian Patients
 
 Developed an automated system for detecting and segmenting perivascular spaces in brain MRI scans of Parkinson’s patients. Designed a 3D U-Net–based workflow and performed statistical analyses to explore relationships between PVS characteristics and clinical indicators of disease progression.
 
@@ -20,7 +20,7 @@ Developed an automated system for detecting and segmenting perivascular spaces i
 
 ---
 
-## **Neural Network Simulation under Deep Brain Stimulation (DBS)**
+### Neural Network Simulation under Deep Brain Stimulation (DBS)
 
 Simulated the STN–GPe neural circuit to study how inhibitory inputs and deep brain stimulation influence pathological oscillations. Analyzed spiking behavior, synchrony, and spectral features to evaluate DBS effectiveness in reducing abnormal neural activity.
 
@@ -30,7 +30,7 @@ Simulated the STN–GPe neural circuit to study how inhibitory inputs and deep b
 
 ---
 
-## **Automatic Speech Recognition and Statistical Language Modeling**
+## Automatic Speech Recognition and Statistical Language Modeling
 
 Built an ASR pipeline using Hidden Markov Models and statistical language modeling. Processed audio data, extracted MFCC features, generated phonetic transcriptions, trained acoustic and language models, and evaluated recognition performance.
 
@@ -40,7 +40,7 @@ Built an ASR pipeline using Hidden Markov Models and statistical language modeli
 
 ---
 
-## **Localization of Deep Video Outpainting**
+## Localization of Deep Video Outpainting
 
 Created a framework to detect and localize outpainted regions in manipulated videos. Adapted deep neural networks for motion-based anomaly detection and validated robustness under blurring and post-processing distortions.
 
@@ -50,7 +50,7 @@ Created a framework to detect and localize outpainted regions in manipulated vid
 
 ---
 
-## **Automatic Supervision of Body-Weight Exercises – Squat Analysis**
+## Automatic Supervision of Body-Weight Exercises – Squat Analysis
 
 Developed a scoring system for evaluating squat quality using pose estimation from depth cameras and motion-capture data. Designed metrics based on joint trajectories and validated system accuracy against expert references.
 
@@ -62,7 +62,7 @@ Developed a scoring system for evaluating squat quality using pose estimation fr
 
 ---
 
-## **High-throughput Genomic Sequencing & Data Integration for Peri-implantitis Diagnosis**
+## High-throughput Genomic Sequencing & Data Integration for Peri-implantitis Diagnosis
 
 Conducted metagenomic and phylogenetic analyses to characterize microbial communities associated with peri-implantitis. Performed taxonomic assignment, genome annotation, pangenome reconstruction, and metadata integration to identify relevant microbial patterns.
 
@@ -74,7 +74,7 @@ Conducted metagenomic and phylogenetic analyses to characterize microbial commun
 
 ---
 
-## **Automatic Speech Recognition (ASR) & Statistical Language Modeling**
+## Automatic Speech Recognition (ASR) & Statistical Language Modeling
 
 Developed a complete ASR pipeline using HMM-based acoustic models and n-gram language models. Implemented audio preprocessing, MFCC extraction, phonetic dictionary construction, iterative HMM training and final decoding for speech transcription.
 
@@ -84,7 +84,7 @@ Developed a complete ASR pipeline using HMM-based acoustic models and n-gram lan
 
 ---
 
-## **Detection & Localization of Deep Video Inpainting**
+## Detection & Localization of Deep Video Inpainting**
 
 Built methods to detect and localize manipulated regions in videos using high-pass convolutional networks. Designed custom frequency-domain residuals to distinguish post-processed frames and classify different inpainting techniques.
 
@@ -96,7 +96,7 @@ Built methods to detect and localize manipulated regions in videos using high-pa
 
 ---
 
-## **RAFT Optical Flow for Outpainting Localization**
+## RAFT Optical Flow for Outpainting Localization
 
 Adapted the RAFT optical-flow model to identify inconsistencies caused by video outpainting. Enhanced detection accuracy by leveraging motion differences between manipulated and original regions, even under noise-reduction operations.
 
