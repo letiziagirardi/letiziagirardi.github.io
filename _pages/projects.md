@@ -74,7 +74,7 @@ Developed a complete ASR pipeline using HMM-based acoustic models and n-gram lan
 
 ---
 
-## Detection & Localization of Deep Video Inpainting**
+## Detection & Localization of Deep Video Inpainting
 
 Built methods to detect and localize manipulated regions in videos using high-pass convolutional networks. Designed custom frequency-domain residuals to distinguish post-processed frames and classify different inpainting techniques.
 
