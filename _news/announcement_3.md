@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-11-27 
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Awarded an honorable mention for the master’s thesis “Automatic measurement and analysis of perivascular spaces in parkinsonian subjects from brain MRI images.” at 20th Bernardo Nobile Award, Area Science Park.
