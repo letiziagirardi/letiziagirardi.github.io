@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Here are **clean, polished descriptions** for each project **with skills, tools, and github repository links**.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -502,11 +502,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=hN_c-xcAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.linkedin.com/in/letiziagirardi", "_blank");
         },
       },{
       id: 'light-theme',
