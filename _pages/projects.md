@@ -40,16 +40,6 @@ Built an ASR pipeline using Hidden Markov Models and statistical language modeli
 
 ---
 
-## Localization of Deep Video Outpainting
-
-Created a framework to detect and localize outpainted regions in manipulated videos. Adapted deep neural networks for motion-based anomaly detection and validated robustness under blurring and post-processing distortions.
-
-**Skills:** Signal Analysis, Deep Learning, Video Outpainting
-
-**Tools:** TensorFlow, PyTorch, OpenCV, Matplotlib, Seaborn
-
----
-
 ## Automatic Supervision of Body-Weight Exercises – Squat Analysis
 
 Developed a scoring system for evaluating squat quality using pose estimation from depth cameras and motion-capture data. Designed metrics based on joint trajectories and validated system accuracy against expert references.
