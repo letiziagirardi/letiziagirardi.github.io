@@ -17,8 +17,8 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-projects",
-          title: "projects",
-          description: "Here are **clean, polished descriptions** for each project **with skills, tools, and github repository links**.",
+          title: "Projects",
+          description: "Polished project descriptions including skills, tools, and GitHub repository links.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
